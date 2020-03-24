@@ -1,7 +1,7 @@
 <template>
-<div>
-  Money.vue
-</div>
+<Layout>
+  <p>Money.vue</p>
+</Layout>
 </template>
 
 <script lang="ts">
