@@ -8,6 +8,7 @@
   @import "~@/assets/style/reset.scss";
   @import "~@/assets/style/helper.scss";
   body {
+    font-size: 16px;
     font-family: $font-hei;
     line-height: 1.5;
     color: #333333;
